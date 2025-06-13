@@ -3,7 +3,7 @@
 # 定義變數
 CAPTCHA_URL="https://lgt.ainja777.com/captcha-handler?get=image&c=backstagecaptcha&t=3eb698d1c191f026f39afb03b4770eaf"
 CAPTCHA_FILE="/tmp/captcha.png"
-OCR_API="http://localhost:5000/ocr"
+OCR_API="http://localhost:9999/ocr"
 
 # 下載驗證碼圖片
 echo "下載驗證碼圖片..."
